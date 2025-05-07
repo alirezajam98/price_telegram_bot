@@ -40,8 +40,9 @@ CHANNEL_ID = "@your_channel"
 UPDATE_INTERVAL = 600  # هر ۱۰ دقیقه
 TIMEOUT = 15
 RETRY_COUNT = 3
-3. اجرای ربات:
 ```
+3. اجرای ربات:
+
 ```bash
 python main.py
 ```
