@@ -34,13 +34,14 @@ tgju-price-bot/
 pip install -r requirements.txt
 ```
 2. تنظیم مقادیر فایل config.py:
+```
 TELEGRAM_TOKEN = "توکن ربات شما"
 CHANNEL_ID = "@your_channel"
 UPDATE_INTERVAL = 600  # هر ۱۰ دقیقه
 TIMEOUT = 15
 RETRY_COUNT = 3
 3. اجرای ربات:
-
+```
 ```bash
 python main.py
 ```
